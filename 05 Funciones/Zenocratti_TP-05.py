@@ -204,3 +204,4 @@ for i in range (1, 4):
 
 print ("el promedio es ", calcular_promedio(notas[0], notas[1], notas[2]))
 """
+
